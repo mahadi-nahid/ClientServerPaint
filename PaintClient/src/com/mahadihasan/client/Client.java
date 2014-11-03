@@ -1,6 +1,9 @@
 package com.mahadihasan.client;
 
-
+/**
+ *
+ * @author Md Mahadi Hasan
+ */
 
 //import com.sun.image.codec.jpeg.JPEGCodec;
 //import com.sun.image.codec.jpeg.JPEGImageEncoder;
