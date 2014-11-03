@@ -45,3 +45,6 @@ Temporary Items
 /PaintServer/nbproject/private/
 /PaintClient/nbproject/private/
 /PaintServer/build/
+/PaintServer/dist/
+/PaintClient/build/
+/PaintClient/dist/
